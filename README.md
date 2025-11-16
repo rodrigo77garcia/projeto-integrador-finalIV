@@ -47,6 +47,8 @@ A arquitetura implementada inclui:
 
 Veja o diagrama completo abaixo.
 
+<img width="1536" height="1024" alt="1c252ff9-10e4-4c5c-a414-a20141e6beab" src="https://github.com/user-attachments/assets/8af0e719-81f2-4fc6-b451-2fad5a28767b" />
+
 ---
 
 ## 📊 Funcionalidades Implementadas
@@ -73,5 +75,7 @@ Veja o diagrama completo abaixo.
 
 ---
 
-## 📁 Estrutura de Pastas Recomendada
+
+
+
 
