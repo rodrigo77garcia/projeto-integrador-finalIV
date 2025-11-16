@@ -74,7 +74,26 @@ Veja o diagrama completo abaixo.
 | Cloud | Google Drive |
 
 ---
-
+## 📁 Estrutura de Pastas Recomendada
+📦 projeto-integrador-IV
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── models/
+│
+├── src/
+│   ├── preprocessing/
+│   ├── ml/
+│   ├── utils/
+│   └── dashboard/
+│       └── main.py
+│
+├── notebooks/
+├── reports/
+├── streamlit_app/
+├── requirements.txt
+└── README.md
 
 
 
